@@ -193,6 +193,16 @@ def update_json_file(filename,data_dict):
 
     json_data = m.copy()
 
+    # collect valid keywords from current config
+    valid_keywords = set()
+    for data in data_dict:
+        valid_keywords.update(data.keys())
+
+    # remove outdated keywords not in current config
+    for key in list(json_data.keys()):
+        if key not in valid_keywords:
+            del json_data[key]
+
     # update papers in each keywords
     for data in data_dict:
         for keyword in data.keys():

@@ -1,7 +1,7 @@
 # TODO: add papers by configuration file
 base_url: "https://arxiv.paperswithcode.com/api/v0/papers/"
-user_name: "Vincentqyw"
-repo_name: "cv-arxiv-daily"
+user_name: "zy557"
+repo_name: "agent-arxiv-daily"
 show_authors: True
 show_links: True
 show_badge: True
@@ -22,18 +22,20 @@ md_wechat_path: './docs/wechat.md'
 
 # keywords to search
 keywords:
-    "SLAM": 
-        filters: ["SLAM", "Visual Odometry"]
-    "SFM":
-        filters: ["SFM", "Structure from Motion"]
-    "Visual Localization":
-        filters: ["Visual Localization","Camera Localization",
-                  "Camera Re-localisation","Loop Closure Detection",
-                  "visual place recognition","image retrieval"]
-    "Keypoint Detection":
-        filters: ["Keypoint Detection", "Feature Descriptor"]
-    "Image Matching":
-        filters: ["Image Matching", "Keypoint Matching", 
-                  "Line Segment Detection", "Local Feature Matching"]
-    "NeRF":
-        filters: ["NeRF"]
+    "LLM Agent":
+        filters: ["LLM agent", "large language model agent", "autonomous agent",
+                  "AI agent", "agentic AI", "multi-agent"]
+    "Agent Security":
+        filters: ["agent security", "prompt injection", "jailbreak",
+                  "adversarial attack on agent", "LLM safety", "agent attack",
+                  "red teaming", "agent alignment"]
+    "MCP":
+        filters: ["Model Context Protocol", "MCP server", "MCP tool",
+                  "tool use", "tool calling", "function calling"]
+    "LLM":
+        filters: ["large language model", "LLM", "GPT", "ChatGPT",
+                  "instruction tuning", "RLHF", "foundation model"]
+    "Agent Skills":
+        filters: ["agent skill", "agent planning", "agent reasoning",
+                  "chain of thought", "ReAct", "task decomposition",
+                  "tool-augmented", "retrieval augmented generation"]

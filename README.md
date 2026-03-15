@@ -1,4 +1,4 @@
-## Updated on 2026.03.14
+## Updated on 2026.03.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -47,7 +47,7 @@
 |**2026-03-12**|**Large language models for optical network O&M: Agent-embedded workflow for automation**|Shengnan Li et.al.|[2603.11828](http://arxiv.org/abs/2603.11828)|null|
 |**2026-03-12**|**Automating Skill Acquisition through Large-Scale Mining of Open-Source Agentic Repositories: A Framework for Multi-Agent Procedural Knowledge Extraction**|Shuzhen Bi et.al.|[2603.11808](http://arxiv.org/abs/2603.11808)|null|
 
-<p align=right>(<a href=#updated-on-20260314>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260315>back to top</a>)</p>
 
 ## Agent Security
 
@@ -84,7 +84,7 @@
 |**2026-03-06**|**Safe Transformer: An Explicit Safety Bit For Interpretable And Controllable Alignment**|Jingyuan Feng et.al.|[2603.06727](http://arxiv.org/abs/2603.06727)|null|
 |**2026-03-06**|**Proof-of-Guardrail in AI Agents and What (Not) to Trust from It**|Xisen Jin et.al.|[2603.05786](http://arxiv.org/abs/2603.05786)|null|
 
-<p align=right>(<a href=#updated-on-20260314>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260315>back to top</a>)</p>
 
 ## MCP
 
@@ -121,7 +121,7 @@
 |**2026-03-10**|**Fanar-Sadiq: A Multi-Agent Architecture for Grounded Islamic QA**|Ummar Abbas et.al.|[2603.08501](http://arxiv.org/abs/2603.08501)|null|
 |**2026-03-09**|**FinToolBench: Evaluating LLM Agents for Real-World Financial Tool Use**|Jiaxuan Lu et.al.|[2603.08262](http://arxiv.org/abs/2603.08262)|null|
 
-<p align=right>(<a href=#updated-on-20260314>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260315>back to top</a>)</p>
 
 ## LLM
 
@@ -158,7 +158,7 @@
 |**2026-03-12**|**EvoTok: A Unified Image Tokenizer via Residual Latent Evolution for Visual Understanding and Generation**|Yan Li et.al.|[2603.12108](http://arxiv.org/abs/2603.12108)|null|
 |**2026-03-12**|**To Words and Beyond: Probing Large Language Models for Sentence-Level Psycholinguistic Norms of Memorability and Reading Times**|Thomas Hikaru Clark et.al.|[2603.12105](http://arxiv.org/abs/2603.12105)|null|
 
-<p align=right>(<a href=#updated-on-20260314>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260315>back to top</a>)</p>
 
 ## Agent Skills
 
@@ -195,7 +195,7 @@
 |**2026-03-11**|**End-to-End Chatbot Evaluation with Adaptive Reasoning and Uncertainty Filtering**|Nhi Dang et.al.|[2603.10570](http://arxiv.org/abs/2603.10570)|null|
 |**2026-03-11**|**AILS-NTUA at SemEval-2026 Task 8: Evaluating Multi-Turn RAG Conversations**|Dimosthenis Athanasiou et.al.|[2603.10524](http://arxiv.org/abs/2603.10524)|null|
 
-<p align=right>(<a href=#updated-on-20260314>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260315>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/zy557/agent-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/zy557/agent-arxiv-daily/graphs/contributors

@@ -30,7 +30,7 @@ keywords:
     "Agent Security & Privacy":
         filters: ["agent security", "prompt injection", "indirect prompt injection", 
                   "jailbreak", "adversarial attack on agent", "LLM safety", 
-                  "agent attack", "red teaming", "agent alignment",
+                  "agent attack", "red teaming", "agent alignment","agent privacy","llm privacy",
                   "data privacy", "data leakage", "prompt leaking", 
                   "PII extraction", "differential privacy", "federated learning",
                   "data poisoning", "backdoor attack", "unauthorized tool execution",

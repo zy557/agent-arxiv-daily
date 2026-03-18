@@ -24,18 +24,45 @@ md_wechat_path: './docs/wechat.md'
 keywords:
     "LLM Agent":
         filters: ["LLM agent", "large language model agent", "autonomous agent",
-                  "AI agent", "agentic AI", "multi-agent"]
-    "Agent Security":
-        filters: ["agent security", "prompt injection", "jailbreak",
-                  "adversarial attack on agent", "LLM safety", "agent attack",
-                  "red teaming", "agent alignment"]
-    "MCP":
+                  "AI agent", "agentic AI", "multi-agent system", "MAS", 
+                  "embodied agent", "generative agent"]
+                  
+    "Agent Security & Privacy":
+        filters: ["agent security", "prompt injection", "indirect prompt injection", 
+                  "jailbreak", "adversarial attack on agent", "LLM safety", 
+                  "agent attack", "red teaming", "agent alignment",
+                  "data privacy", "data leakage", "prompt leaking", 
+                  "PII extraction", "differential privacy", "federated learning",
+                  "data poisoning", "backdoor attack", "unauthorized tool execution",
+                  "privilege escalation", "agent hallucination mitigation"]
+                  
+    "Agent Protocols & Tools":  # 由原 MCP 拓展
         filters: ["Model Context Protocol", "MCP server", "MCP tool",
-                  "tool use", "tool calling", "function calling"]
+                  "tool use", "tool calling", "function calling", 
+                  "tool learning", "API integration", "OpenAPI specification",
+                  "agent framework", "LangChain", "action space", 
+                  "tool-augmented", "plugin system", "external tools"]
+                  
     "LLM":
         filters: ["large language model", "LLM", "GPT", "ChatGPT",
-                  "instruction tuning", "RLHF", "foundation model"]
+                  "instruction tuning", "RLHF", "DPO", "foundation model", 
+                  "parameter-efficient fine-tuning", "PEFT"]
+                  
     "Agent Skills":
         filters: ["agent skill", "agent planning", "agent reasoning",
-                  "chain of thought", "ReAct", "task decomposition",
-                  "tool-augmented", "retrieval augmented generation"]
+                  "chain of thought", "CoT", "ReAct", "task decomposition",
+                  "self-reflection", "self-correction", "tree of thoughts", 
+                  "graph of thoughts", "plan-and-solve", "step-by-step reasoning"]
+                  
+    "Agent Memory":  # 新增
+        filters: ["agent memory", "episodic memory", "semantic memory",
+                  "working memory", "short-term memory", "long-term memory",
+                  "memory consolidation", "memory stream", "memory retrieval", 
+                  "context window", "infinite context", "vector database",
+                  "context management"]
+                  
+    "Agent RAG":  # 新增
+        filters: ["retrieval augmented generation", "retrieval-augmented agent", 
+                  "agentic RAG", "RAG agent", "Self-RAG", "GraphRAG", 
+                  "active retrieval", "iterative retrieval", "multi-hop retrieval", 
+                  "knowledge graph RAG", "retrieval reasoning", "information seeking"]
